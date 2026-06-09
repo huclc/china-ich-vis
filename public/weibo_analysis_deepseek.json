@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "method": "DeepSeek API",
+    "model": "deepseek-chat",
+    "total": 1000
+  },
+  "sentiment": {
+    "total": 1000,
+    "positive": 648,
+    "neutral": 277,
+    "negative": 30,
+    "positive_pct": 64.8,
+    "neutral_pct": 27.7,
+    "negative_pct": 3.0
+  },
+  "category_sentiment": {
+    "传统技艺": {
+      "count": 373,
+      "positive": 259,
+      "neutral": 111,
+      "negative": 3
+    },
+    "民俗": {
+      "count": 41,
+      "positive": 25,
+      "neutral": 16,
+      "negative": 0
+    },
+    "传统戏剧": {
+      "count": 64,
+      "positive": 45,
+      "neutral": 17,
+      "negative": 2
+    },
+    "传统音乐": {
+      "count": 9,
+      "positive": 7,
+      "neutral": 2,
+      "negative": 0
+    },
+    "传统舞蹈": {
+      "count": 1,
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "传统美术": {
+      "count": 21,
+      "positive": 7,
+      "neutral": 14,
+      "negative": 0
+    },
+    "民间文学": {
+      "count": 41,
+      "positive": 34,
+      "neutral": 7,
+      "negative": 0
+    },
+    "曲艺": {
+      "count": 3,
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "传统医药": {
+      "count": 9,
+      "positive": 2,
+      "neutral": 6,
+      "negative": 1
+    },
+    "传统体育": {
+      "count": 8,
+      "positive": 3,
+      "neutral": 5,
+      "negative": 0
+    }
+  }
+}
