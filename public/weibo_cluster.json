@@ -1,0 +1,516 @@
+{
+  "clusters": [
+    {
+      "name": "传承 · 技艺",
+      "keywords": [
+        {
+          "word": "传承",
+          "freq": 357
+        },
+        {
+          "word": "技艺",
+          "freq": 298
+        },
+        {
+          "word": "匠心",
+          "freq": 226
+        },
+        {
+          "word": "徽墨",
+          "freq": 178
+        },
+        {
+          "word": "民族团结",
+          "freq": 163
+        },
+        {
+          "word": "传统",
+          "freq": 161
+        },
+        {
+          "word": "angelababy",
+          "freq": 141
+        },
+        {
+          "word": "热度",
+          "freq": 125
+        },
+        {
+          "word": "传统文化",
+          "freq": 124
+        },
+        {
+          "word": "宝马",
+          "freq": 109
+        },
+        {
+          "word": "杨颖",
+          "freq": 108
+        },
+        {
+          "word": "创新",
+          "freq": 108
+        },
+        {
+          "word": "开展",
+          "freq": 106
+        },
+        {
+          "word": "融合",
+          "freq": 102
+        },
+        {
+          "word": "雷山县",
+          "freq": 94
+        },
+        {
+          "word": "体验",
+          "freq": 93
+        },
+        {
+          "word": "走进",
+          "freq": 92
+        },
+        {
+          "word": "藏海",
+          "freq": 91
+        },
+        {
+          "word": "之旅",
+          "freq": 85
+        },
+        {
+          "word": "汇演",
+          "freq": 82
+        },
+        {
+          "word": "宁波",
+          "freq": 81
+        },
+        {
+          "word": "知识",
+          "freq": 80
+        },
+        {
+          "word": "江北",
+          "freq": 80
+        },
+        {
+          "word": "宣讲",
+          "freq": 80
+        },
+        {
+          "word": "苗族",
+          "freq": 79
+        },
+        {
+          "word": "观众",
+          "freq": 78
+        },
+        {
+          "word": "展现",
+          "freq": 78
+        },
+        {
+          "word": "雷山",
+          "freq": 78
+        },
+        {
+          "word": "守护",
+          "freq": 76
+        },
+        {
+          "word": "Angelababy",
+          "freq": 74
+        },
+        {
+          "word": "文旅",
+          "freq": 74
+        },
+        {
+          "word": "日常",
+          "freq": 71
+        },
+        {
+          "word": "近日",
+          "freq": 69
+        },
+        {
+          "word": "与非",
+          "freq": 69
+        },
+        {
+          "word": "民族",
+          "freq": 66
+        },
+        {
+          "word": "现场",
+          "freq": 66
+        },
+        {
+          "word": "电视剧",
+          "freq": 65
+        },
+        {
+          "word": "藏海传",
+          "freq": 65
+        },
+        {
+          "word": "教育",
+          "freq": 63
+        },
+        {
+          "word": "走出",
+          "freq": 63
+        },
+        {
+          "word": "展演",
+          "freq": 62
+        },
+        {
+          "word": "依托",
+          "freq": 62
+        },
+        {
+          "word": "历史",
+          "freq": 62
+        },
+        {
+          "word": "女性",
+          "freq": 62
+        },
+        {
+          "word": "作品",
+          "freq": 61
+        },
+        {
+          "word": "承人",
+          "freq": 61
+        },
+        {
+          "word": "李祯",
+          "freq": 60
+        },
+        {
+          "word": "多元",
+          "freq": 58
+        },
+        {
+          "word": "发展",
+          "freq": 58
+        },
+        {
+          "word": "文艺",
+          "freq": 57
+        },
+        {
+          "word": "地方",
+          "freq": 57
+        },
+        {
+          "word": "沉浸",
+          "freq": 56
+        },
+        {
+          "word": "ab",
+          "freq": 55
+        },
+        {
+          "word": "苗寨",
+          "freq": 54
+        }
+      ]
+    },
+    {
+      "name": "千年 · 文脉",
+      "keywords": [
+        {
+          "word": "千年",
+          "freq": 118
+        },
+        {
+          "word": "文脉",
+          "freq": 55
+        }
+      ]
+    },
+    {
+      "name": "活动",
+      "keywords": [
+        {
+          "word": "活动",
+          "freq": 85
+        }
+      ]
+    },
+    {
+      "name": "世界",
+      "keywords": [
+        {
+          "word": "世界",
+          "freq": 58
+        }
+      ]
+    },
+    {
+      "name": "戏曲",
+      "keywords": [
+        {
+          "word": "戏曲",
+          "freq": 56
+        }
+      ]
+    },
+    {
+      "name": "艺术",
+      "keywords": [
+        {
+          "word": "艺术",
+          "freq": 54
+        }
+      ]
+    }
+  ],
+  "word_freq_all": [
+    {
+      "name": "传承",
+      "value": 357
+    },
+    {
+      "name": "技艺",
+      "value": 298
+    },
+    {
+      "name": "匠心",
+      "value": 226
+    },
+    {
+      "name": "徽墨",
+      "value": 178
+    },
+    {
+      "name": "民族团结",
+      "value": 163
+    },
+    {
+      "name": "传统",
+      "value": 161
+    },
+    {
+      "name": "angelababy",
+      "value": 141
+    },
+    {
+      "name": "热度",
+      "value": 125
+    },
+    {
+      "name": "传统文化",
+      "value": 124
+    },
+    {
+      "name": "千年",
+      "value": 118
+    },
+    {
+      "name": "宝马",
+      "value": 109
+    },
+    {
+      "name": "创新",
+      "value": 108
+    },
+    {
+      "name": "杨颖",
+      "value": 108
+    },
+    {
+      "name": "开展",
+      "value": 106
+    },
+    {
+      "name": "融合",
+      "value": 102
+    },
+    {
+      "name": "雷山县",
+      "value": 94
+    },
+    {
+      "name": "体验",
+      "value": 93
+    },
+    {
+      "name": "走进",
+      "value": 92
+    },
+    {
+      "name": "藏海",
+      "value": 91
+    },
+    {
+      "name": "活动",
+      "value": 85
+    },
+    {
+      "name": "之旅",
+      "value": 85
+    },
+    {
+      "name": "汇演",
+      "value": 82
+    },
+    {
+      "name": "宁波",
+      "value": 81
+    },
+    {
+      "name": "知识",
+      "value": 80
+    },
+    {
+      "name": "江北",
+      "value": 80
+    },
+    {
+      "name": "宣讲",
+      "value": 80
+    },
+    {
+      "name": "苗族",
+      "value": 79
+    },
+    {
+      "name": "展现",
+      "value": 78
+    },
+    {
+      "name": "观众",
+      "value": 78
+    },
+    {
+      "name": "雷山",
+      "value": 78
+    },
+    {
+      "name": "守护",
+      "value": 76
+    },
+    {
+      "name": "文旅",
+      "value": 74
+    },
+    {
+      "name": "Angelababy",
+      "value": 74
+    },
+    {
+      "name": "日常",
+      "value": 71
+    },
+    {
+      "name": "近日",
+      "value": 69
+    },
+    {
+      "name": "与非",
+      "value": 69
+    },
+    {
+      "name": "民族",
+      "value": 66
+    },
+    {
+      "name": "现场",
+      "value": 66
+    },
+    {
+      "name": "电视剧",
+      "value": 65
+    },
+    {
+      "name": "藏海传",
+      "value": 65
+    },
+    {
+      "name": "走出",
+      "value": 63
+    },
+    {
+      "name": "教育",
+      "value": 63
+    },
+    {
+      "name": "历史",
+      "value": 62
+    },
+    {
+      "name": "展演",
+      "value": 62
+    },
+    {
+      "name": "依托",
+      "value": 62
+    },
+    {
+      "name": "女性",
+      "value": 62
+    },
+    {
+      "name": "作品",
+      "value": 61
+    },
+    {
+      "name": "承人",
+      "value": 61
+    },
+    {
+      "name": "李祯",
+      "value": 60
+    },
+    {
+      "name": "世界",
+      "value": 58
+    },
+    {
+      "name": "发展",
+      "value": 58
+    },
+    {
+      "name": "多元",
+      "value": 58
+    },
+    {
+      "name": "地方",
+      "value": 57
+    },
+    {
+      "name": "文艺",
+      "value": 57
+    },
+    {
+      "name": "戏曲",
+      "value": 56
+    },
+    {
+      "name": "沉浸",
+      "value": 56
+    },
+    {
+      "name": "文脉",
+      "value": 55
+    },
+    {
+      "name": "ab",
+      "value": 55
+    },
+    {
+      "name": "艺术",
+      "value": 54
+    },
+    {
+      "name": "苗寨",
+      "value": 54
+    }
+  ]
+}
