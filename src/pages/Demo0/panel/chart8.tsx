@@ -40,11 +40,11 @@ export default function Chart8() {
     <Wrapper>
       <StatBox>
         <StatNum value={positive} options={{ maximumFractionDigits: 0 }} style={{ color: "#5DA6AE" }} />
-        <StatLabel>正面 ({positive_pct}%)</StatLabel>
+        <StatLabel>正面</StatLabel>
       </StatBox>
       <StatBox>
         <StatNum value={neutral} options={{ maximumFractionDigits: 0 }} style={{ color: "#C7A46A" }} />
-        <StatLabel>中性 ({neutral_pct}%)</StatLabel>
+        <StatLabel>中性</StatLabel>
       </StatBox>
       <div style={{ gridColumn: "1 / 3" }}>
         <Chart<Opt>
@@ -53,10 +53,11 @@ export default function Chart8() {
             tooltip: { trigger: "item", backgroundColor: "rgba(255,245,232,0.9)", borderColor: "#ea580c", textStyle: { color: "#1e2529", fontSize: 11 } },
             legend: { show: false },
             series: [{
-              type: "pie", radius: ["55%", "78%"], center: ["50%", "55%"],
+              type: "pie", radius: ["45%", "65%"], center: ["55%", "55%"],
               avoidLabelOverlap: false, itemStyle: { borderRadius: 4, borderColor: "#f5f0e8", borderWidth: 2 },
               label: { show: true, position: "outside", fontSize: 9, color: "#6b7280",
-                formatter: "{b}\n{d}%" },
+                formatter: "{b} {d}%",
+                overflow: "truncate", width: 60 },
               emphasis: { label: { fontSize: 14, fontWeight: "bold" }, scaleSize: 8 },
               data: [
                 { value: positive, name: "正面", itemStyle: { color: "#5DA6AE" } },
